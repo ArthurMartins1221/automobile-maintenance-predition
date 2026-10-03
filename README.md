@@ -31,5 +31,8 @@ it is not too far if we notice that the mean of remaining kilometers is 54116.43
 
 ### LIMITATION AND FUTURE WORK
 ---
+
 * **Dataset Constraints:** The current dataset is synthetic/limited and may not fully reflect real-world vehicle telemetry behavior.
 * **Next Steps:** With access to domain-specific vehicle sensor specs and real-time operational logs, further hyperparameter tuning and feature extraction can significantly reduce prediction error.
+* **NOTE:** A lot of techniques could be used to improve the results, such as more data cleaning, oversampling, collecting more data, using grid search to find the best hyperparameters, and so forth. Machine learning is an endless process, and I really intend to work more on this project.
+
